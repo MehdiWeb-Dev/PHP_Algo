@@ -1,0 +1,26 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes d'éditeurs
+*.bak
+*.tmp
+*.swp
+
+# Fichiers générés
+liste_taches.txt
+liste_taches.html
+
+# Cache
+.cache/
+.idea/
+.vscode/
+
+# Fichiers de logs ou test
+*.log
+
+# Dépendances éventuelles
+vendor/
+
+# Sauvegarde JSON (optionnel si tu veux versionner les tâches à part)
+# taches.json
